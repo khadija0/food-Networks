@@ -52,6 +52,7 @@ a{
     background-image: linear-gradient(rgb(211, 47, 47),hotpink);
     border-radius: 25px;
 }
+
 #up{
     padding-right: 300px;
 }
@@ -85,6 +86,10 @@ h3{
     margin: 3%;
     box-shadow: 10px 10px 40px grey;
     border-radius: 80px;
+}
+.food-menu:hover{
+    background-image: linear-gradient(rgb(211, 47, 47),hotpink);
+	transition: 5s;
 }
 .food{
     margin-bottom: 180px;
@@ -123,6 +128,6 @@ h3{
 .map{
     padding-left: 430px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 10p;
  
 }
