@@ -114,3 +114,15 @@ h3{
     background-color: black;
     text-align: center;
 }
+.video{
+    margin-bottom: 5px;
+}
+#padding{
+    padding: 1%;
+}
+.map{
+    padding-left: 430px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+ 
+}
